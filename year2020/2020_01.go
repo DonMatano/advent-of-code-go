@@ -1,4 +1,4 @@
-package advent_of_code_2020
+package year2020
 
 func GetSantaFloorFromCode(data string) int {
 	chars := []rune(data)
